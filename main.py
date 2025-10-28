@@ -36,6 +36,7 @@ st.markdown("""
         border-radius: 8px;
         border-left: 4px solid #ffc107;
         margin: 10px 0;
+        color: #343434;
     }
     .search-box {
         font-size: 18px;
