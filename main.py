@@ -19,7 +19,7 @@ st.set_page_config(
 st.markdown("""
 <style>
     .video-card {
-        background: #f8f9fa;
+        background: #343434;
         padding: 20px;
         border-radius: 10px;
         margin: 10px 0;
